@@ -15,4 +15,4 @@ The database is structured as follows:
 3. What is the average film `length` per each `category`? Which category of films are the longest?
 4. Display the 2 most frequently rented movies in descending order.
 5. Display the top 5 categories with highest revenue (`payment amount`) in descending order.
-6. Is the `Academy Dinosaur` movie available for rent from `Store 1`?
+6. Is the `Academy Dinosaur` movie available for rent from `Store 1`? If yes, display the `title`, `store_id` and `inventory_id` of the available copies of that movie.
